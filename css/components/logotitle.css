@@ -1,0 +1,16 @@
+#logotitle {
+	padding: 0px;
+	box-shadow: none;
+	margin: 0px 0px;
+	justify-content: flex-start;
+}
+
+#logotitle img {
+	width: 100px;
+}
+
+#logotitle h1 {
+	font-size: 50px;
+	font-family: cursive;
+	margin-left: 15px;
+}
